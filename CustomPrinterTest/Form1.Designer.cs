@@ -33,12 +33,15 @@
             // 
             // btn_print
             // 
-            this.btn_print.Location = new System.Drawing.Point(0, 106);
+            this.btn_print.BackColor = System.Drawing.Color.SkyBlue;
+            this.btn_print.Font = new System.Drawing.Font("Microsoft Sans Serif", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_print.ForeColor = System.Drawing.Color.AliceBlue;
+            this.btn_print.Location = new System.Drawing.Point(12, 12);
             this.btn_print.Name = "btn_print";
-            this.btn_print.Size = new System.Drawing.Size(800, 344);
+            this.btn_print.Size = new System.Drawing.Size(776, 426);
             this.btn_print.TabIndex = 0;
-            this.btn_print.Text = "Print";
-            this.btn_print.UseVisualStyleBackColor = true;
+            this.btn_print.Text = "PRINT";
+            this.btn_print.UseVisualStyleBackColor = false;
             this.btn_print.Click += new System.EventHandler(this.btn_print_Click);
             // 
             // Form1
