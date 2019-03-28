@@ -1,0 +1,10 @@
+C:\Users\engincanozkan\source\repos\CustomPrinterTest\CustomPrinterTest\bin\Debug\CustomPrinterTest.exe.config
+C:\Users\engincanozkan\source\repos\CustomPrinterTest\CustomPrinterTest\bin\Debug\CustomPrinterTest.exe
+C:\Users\engincanozkan\source\repos\CustomPrinterTest\CustomPrinterTest\bin\Debug\CustomPrinterTest.pdb
+C:\Users\engincanozkan\source\repos\CustomPrinterTest\CustomPrinterTest\obj\Debug\CustomPrinterTest.csprojAssemblyReference.cache
+C:\Users\engincanozkan\source\repos\CustomPrinterTest\CustomPrinterTest\obj\Debug\CustomPrinterTest.Properties.Resources.resources
+C:\Users\engincanozkan\source\repos\CustomPrinterTest\CustomPrinterTest\obj\Debug\CustomPrinterTest.csproj.GenerateResource.cache
+C:\Users\engincanozkan\source\repos\CustomPrinterTest\CustomPrinterTest\obj\Debug\CustomPrinterTest.csproj.CoreCompileInputs.cache
+C:\Users\engincanozkan\source\repos\CustomPrinterTest\CustomPrinterTest\obj\Debug\CustomPrinterTest.exe
+C:\Users\engincanozkan\source\repos\CustomPrinterTest\CustomPrinterTest\obj\Debug\CustomPrinterTest.pdb
+C:\Users\engincanozkan\source\repos\CustomPrinterTest\CustomPrinterTest\obj\Debug\CustomPrinterTest.Form1.resources
